@@ -11,6 +11,8 @@ ENV/
 
 # Logs
 *.log
+.env
+*.secret
 
 # OS-specific files
 .DS_Store
